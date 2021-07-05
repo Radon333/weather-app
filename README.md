@@ -1,2 +1,2 @@
-# weather-app
-A react app to get weather forecast
+# weather-react
+A weather feed app built using react
