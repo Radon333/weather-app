@@ -1,13 +1,12 @@
 import React  from "react";
 import { AwesomeButton } from "react-awesome-button";
-import "react-awesome-button/dist/styles.css";
 import Asset2 from "../assets/Asset 2.png";
 import Asset3 from "../assets/Asset 3.png";
 import Asset4 from "../assets/Asset 4.png";
 import { Carousel } from "react-bootstrap";
 import {motion} from "framer-motion";
 import {Link} from "react-router-dom";
-
+import "react-awesome-button/dist/styles.css";
 import "../Home/home.css";
 function Home() {
     return (
