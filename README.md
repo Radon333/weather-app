@@ -1,2 +1,2 @@
 # weather-react
-A weather feed app built using react,hooks,framer motion,react-boostrap and openweathermap API,momentJS
+A weather feed app built using react,hooks,framer motion,react-boostrap and openweathermap API,momentJS,react-awesome-button
