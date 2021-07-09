@@ -8,7 +8,7 @@ const Forecast = ({weatherData}) => (
     <div>
           
           <Card style={{ width: '25rem' }}>
-            <Card.Img variant="top" src={Day}/>
+            <Card.Img variant="top" src={(weatherData.sys.sunrise<=Date.now() && Date.now()<weatherData.sys.sunset)? Day : Night}/>
             <Card.Body>
                   <Card.Title>Weather Station: {weatherData.name}</Card.Title>
                   <Card.Text>
