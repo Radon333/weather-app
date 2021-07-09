@@ -9,14 +9,33 @@
     padding:3vh;
 }
 #cardimg{
-    width:20vw;
-    height:30vh;
+    width:15vw;
+    height:20vh;
 }
 
-#cwcard{
-    
+#carditems{
+    background-color: #161b22;
     color:white;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width:25vw;
+    width:30vw;
+    height:77vh;
+    justify-content:center;
+    -webkit-box-shadow: 0 0 5px 2px #fff;
+    -moz-box-shadow: 0 0 5px 2px #fff;
+    box-shadow: 0 0 5px 2px #fff;
+}
+
+.card{
+    display: flex;
+    margin-left: 35vw;
+    margin-right: 35vw;
+    background-color: #161b22;
+
+}
+
+.test{
+    display: inline-block;
+}
+
+#des-container{
+    padding-left: 3vw;
 }
