@@ -1,41 +1,41 @@
-#myloc-main
-{
+.main{
+    margin-top:7vh;
+    margin-left: 30vw;
+    margin-right: 30vw;
     background-color: #161b22;
-    height:100vh;
-    text-align: center;
-}
-
-.cardimgcontainer{
-    padding:3vh;
-}
-#cardimg{
-    width:15vw;
-    height:20vh;
-}
-
-#carditems{
-    background-color: #161b22;
-    color:white;
-    width:30vw;
-    height:77vh;
-    justify-content:center;
+    color:azure;
+    border-radius: 1vw;
+    border: 1px solid;
     -webkit-box-shadow: 0 0 5px 2px #fff;
     -moz-box-shadow: 0 0 5px 2px #fff;
     box-shadow: 0 0 5px 2px #fff;
 }
 
-.card{
+.flex{
     display: flex;
-    margin-left: 35vw;
-    margin-right: 35vw;
-    background-color: #161b22;
-
+    justify-content: space-between;
+    text-align: center;
 }
 
 .test{
-    display: inline-block;
+    text-align: center;
+    padding-top:3vh;
+    padding-bottom:3vh;
 }
 
-#des-container{
-    padding-left: 3vw;
+#fcbtn-container{
+    text-align: center;
+    margin-top:5vh;
+}
+
+#bodybg{
+    height:100vh;
+    background-color: #010409;
+}
+
+#cwdtitle
+{
+    color:white;
+    text-align: center;
+    padding-top:1vh;
 }
