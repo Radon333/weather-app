@@ -18,7 +18,6 @@
 
 * Displays Current weather data according to your location.
 
-1. Current weather data includes:
   1. Location
   1. Date
   1. Temperature
@@ -28,7 +27,4 @@
   1. Wind-speed
   1. Sunrise and Sunset timings
   
-2. __Coming soon__:
- 2. AQI
- 2. Weather forecast for 3 days
   
