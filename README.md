@@ -27,6 +27,7 @@
   1. Humidity
   1. Wind-speed
   1. Sunrise and Sunset timings
+  
 2. __Coming soon__:
  2. AQI
  2. Weather forecast for 3 days
