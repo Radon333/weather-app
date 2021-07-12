@@ -1,7 +1,7 @@
 .main{
     margin-top:7vh;
-    margin-left: 30vw;
-    margin-right: 30vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
     background-color: #161b22;
     color:azure;
     border-radius: 1vw;
@@ -38,4 +38,16 @@
     color:white;
     text-align: center;
     padding-top:1vh;
+}
+
+@media screen and (max-width:700px)
+{
+    .main{
+        margin-left: 10vw;
+        margin-right: 10vw;
+    }
+
+    .test{
+        font-size:4.5vw;
+    }
 }
