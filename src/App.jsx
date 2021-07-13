@@ -8,7 +8,7 @@ function App() {
         <Route path="/current-weather">
           <Current/>
         </Route>
-        <Route path="/">
+        <Route path="/home">
           <Home />
         </Route>
       </Switch>

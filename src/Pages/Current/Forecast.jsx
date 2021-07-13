@@ -45,7 +45,7 @@ const Forecast = ({weatherData}) => (
 </motion.div>
            <motion.div initial={{ y:1000 }} animate={{y:0}} transition={{delay:0.5,duration:0.5}}>
            <div id="fcbtn-container">
-           <Link to="/">
+           <Link to="/home">
             <AwesomeButton
                 type="secondary"
                 size="medium"
